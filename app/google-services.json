@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "272599580280",
+    "firebase_url": "https://tuhocfirebase-93aa3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tuhocfirebase-93aa3",
+    "storage_bucket": "tuhocfirebase-93aa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272599580280:android:b3cdd2e50a837014b1f78d",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272599580280-pqbat7rrvrf5obgkjstq2u04lt3fjnus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2EVzdPHTjNA8MqpX0CVB7BQzmJGTF-ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272599580280-pqbat7rrvrf5obgkjstq2u04lt3fjnus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
